@@ -1,0 +1,61 @@
+{
+    "adam":{
+        "department":"Corporate",
+        "phone_number":"777-7777",
+        "last_name":""
+    },
+    "david":{
+        "department":"Machine Learning",
+        "email":"david@bestdavid.com",
+        "manager":"Matt",
+        "phone_number":"584-2398"
+    },
+    "joe":{
+        "department":"Product",
+        "manager":"Adam",
+        "last_name":"McClendon"
+    },
+    "srini":{
+        "department":"Marketing",
+        "manager":"Joe",
+        "email":"srini@gdmail.com"
+    },
+    "mike":{
+        "department":"Engineering",
+        "phone_number":"495-6213",
+        "real_first_name":"Michael",
+        "manager":""
+    },
+    "steve":{
+        "department":"Sales",
+        "phone_number":"",
+        "manager":"",
+        "last_name":""
+    },
+    "matt":{
+        "department":"Machine Learning",
+        "manager":"Adam",
+        "email":"matt@mlop.com",
+        "last_name":""
+    },
+    "bella":{
+        "last_name":"swan",
+        "department":"Human Resource",
+        "manager":"Adam",
+        "phone_number":"038-1897",
+        "email":"bella@teamedward.com",
+        "real_first_name":""
+    },
+    "bruce":{
+        "last_name":"",
+        "real_first_name":"Batman",
+        "department":"Customer Success",
+        "email":"notbatman@wayne.com",
+        "manager":"Joe"
+    },
+    "tony":{
+        "real_first_name":"Iron Man",
+        "department":"Engineering",
+        "manager":"Adam"
+    }
+}
